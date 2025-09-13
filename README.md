@@ -37,5 +37,5 @@ Search & Filters – Quick access to employee records by role, experience, or st
 ✔ Easy deployment on cloud platforms (Heroku, Vercel, AWS).
 
 7. Screenshots / Demos
-  see how the  dashboard  looks like  - ![Dashboard preview].(https://github.com/ranaabhinav4u/HR-s-Employee-Dashboard/blob/main/HR's%20Dashboard.png)
+  see how the  dashboard  looks like  - ![Dashboard preview](https://github.com/ranaabhinav4u/HR-s-Employee-Dashboard/blob/main/HR's%20Dashboard.png)
    
